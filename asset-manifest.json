@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/society_management/static/css/main.edcee58d.chunk.css",
+    "main.js": "/society_management/static/js/main.86038e7c.chunk.js",
+    "main.js.map": "/society_management/static/js/main.86038e7c.chunk.js.map",
+    "runtime-main.js": "/society_management/static/js/runtime-main.7c8f70a3.js",
+    "runtime-main.js.map": "/society_management/static/js/runtime-main.7c8f70a3.js.map",
+    "static/js/2.7940a7a7.chunk.js": "/society_management/static/js/2.7940a7a7.chunk.js",
+    "static/js/2.7940a7a7.chunk.js.map": "/society_management/static/js/2.7940a7a7.chunk.js.map",
+    "index.html": "/society_management/index.html",
+    "precache-manifest.2ced431991676e799c8264adf790c36b.js": "/society_management/precache-manifest.2ced431991676e799c8264adf790c36b.js",
+    "service-worker.js": "/society_management/service-worker.js",
+    "static/css/main.edcee58d.chunk.css.map": "/society_management/static/css/main.edcee58d.chunk.css.map",
+    "static/js/2.7940a7a7.chunk.js.LICENSE.txt": "/society_management/static/js/2.7940a7a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8f70a3.js",
+    "static/js/2.7940a7a7.chunk.js",
+    "static/css/main.edcee58d.chunk.css",
+    "static/js/main.86038e7c.chunk.js"
+  ]
+}
